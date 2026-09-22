@@ -2,8 +2,8 @@
 
 This repository contains my Machine Learning Lab experiments.
 
-## Experiments
+## ASSIGNEMENTS
 
-- Experiment 01
-- Experiment 02
-- Experiment 03
+- Assignment 01
+- Assignment 02
+- Assignment 03
